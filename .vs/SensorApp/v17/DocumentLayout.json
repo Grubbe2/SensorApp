@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Skrivebord\\Studie\\Software PBA\\2. Sem\\System Integration\\SensorApp\\SensorApp\\",
+  "WorkspaceRootPath": "C:\\Skrivebord\\Studie\\Software PBA\\2. Sem\\System Integration\\SensorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10C8057F-CD7B-4592-8791-16017E772D6A}|SensorApp.csproj|c:\\skrivebord\\studie\\software pba\\2. sem\\system integration\\sensorapp\\sensorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10C8057F-CD7B-4592-8791-16017E772D6A}|SensorApp.csproj|c:\\skrivebord\\studie\\software pba\\2. sem\\system integration\\sensorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10C8057F-CD7B-4592-8791-16017E772D6A}|SensorApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Skrivebord\\Studie\\Software PBA\\2. Sem\\System Integration\\SensorApp\\SensorApp\\Program.cs",
+              "DocumentMoniker": "C:\\Skrivebord\\Studie\\Software PBA\\2. Sem\\System Integration\\SensorApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Skrivebord\\Studie\\Software PBA\\2. Sem\\System Integration\\SensorApp\\SensorApp\\Program.cs",
+              "ToolTip": "C:\\Skrivebord\\Studie\\Software PBA\\2. Sem\\System Integration\\SensorApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
